@@ -2,7 +2,7 @@
 Archivos STL para impresion de aspas de ventiladores.
 
 # Fuente
-Este trabajo es una modificación personal sobre el trabajo de (mdombro3)[https://www.thingiverse.com/mdombro3] (Fan Blade)[https://www.thingiverse.com/thing:322873]
+Este trabajo es una modificación personal sobre el trabajo de [mdombro3](https://www.thingiverse.com/mdombro3) [Fan Blade](https://www.thingiverse.com/thing:322873)
 
 
 ## License
